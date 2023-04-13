@@ -1,0 +1,33 @@
+* {
+  font-family: "Nunito", sans-serif;
+}
+body {
+  padding-top: 80px;
+}
+
+/* Global Card Color */
+.card .card-header {
+  font-weight: 700;
+  color: #f4f4f4;
+  background-color:  black;
+}
+
+.card .card-header h4 {
+  font-weight: 700;
+  color: #f4f4f4;
+  background-color: black;
+}
+
+/* Index_Page */
+.navbar {
+  background-color: black;
+}
+
+.navbar a {
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+  color: #f4f4f4;
+}
